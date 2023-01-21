@@ -1,1 +1,1 @@
-# arduino-mini-projects
+These are some mini Arduino projects I worked on during my grade 9 summer with a family friend/mentor. "The Imperial March" is a music and light bot that plays a part of Darth Vader's theme, and "Motor Bot" is just another program I used to test the Arduino's movement capabilities.
